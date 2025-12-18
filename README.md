@@ -13,6 +13,25 @@ A full-stack ecommerce website built with React and Node.js/Express.
 - 📱 **Responsive Design** - Works on desktop, tablet, and mobile
 - ⭐ **Product Ratings** - View product ratings and reviews
 
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🛒 Product Listing
+![Product Listing](screenshots/products.png)
+
+### 👤 Seller Dashboard
+![Seller Dashboard](screenshots/seller-dashboard.png)
+
+### ➕ Add Product
+![Add Product](screenshots/add-product.png)
+
+### 🛍 Cart & Checkout
+![Cart](screenshots/cart.png)
+
+
 ## Tech Stack
 
 ### Frontend

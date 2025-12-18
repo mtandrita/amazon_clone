@@ -28,8 +28,11 @@ A full-stack ecommerce website built with React and Node.js/Express.
 ### ➕ Add Product
 ![Add Product](screenshots/add-product.png)
 
-### 🛍 Cart & Checkout
+### 🛍 Cart 
 ![Cart](screenshots/cart.png)
+
+### 🛍 Checkout
+![Cart](screenshots/checkout.png)
 
 
 ## Tech Stack

@@ -2,7 +2,7 @@
 
 A full-stack ecommerce website built with React and Node.js/Express.
 
-![Amazon Clone](https://via.placeholder.com/800x400?text=Amazon+Clone+Ecommerce)
+
 
 ## Features
 

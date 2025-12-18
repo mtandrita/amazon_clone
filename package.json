@@ -1,0 +1,11 @@
+{
+  "name": "amazonclone",
+  "version": "1.0.0",
+  "description": "Full-stack Amazon Clone Ecommerce Website",
+  "scripts": {
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run dev",
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+    "dev": "npm run server & npm run client"
+  }
+}
